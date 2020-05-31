@@ -24,7 +24,6 @@
             padding:10px 8px;
         }
         .price-area{
-            display:none !important;
             position: absolute;
             top:5px;
             right:5px;
@@ -75,17 +74,6 @@
         }
         p{
             margin-bottom:0;
-        }
-    }
-}
-.col-12.col-md-6:nth-of-type(1),
-.col-12.col-md-6:nth-of-type(6),
-.col-12.col-md-6:nth-of-type(8){
-    .product-inner{
-        .image-part{
-            .price-area{
-                display:block !important;
-            }
         }
     }
 }

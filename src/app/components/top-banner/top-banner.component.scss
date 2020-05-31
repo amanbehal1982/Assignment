@@ -37,24 +37,13 @@
 }
 @media (max-width: 767.98px) {
     .banner-box{
-        background-size: 130px auto;
+        background-size: 180px auto;
+        background-position: center top;
     }
     .banner-box h1{ 
-        padding-left: 140px;
+        padding-left: 25px;
         padding-right: 25px;
-        padding-top:35px;
-        padding-bottom:35px;
-    }
-}
-@media (max-width: 575.98px) {
-    .banner-box{
-        background-size: 70px auto;
-        background-position: left 10px bottom;
-    }
-    .banner-box h1{ 
-        padding-left: 70px;
-        padding-right: 25px;
-        padding-top:25px;
+        padding-top:180px;
         padding-bottom:25px;
     }
 }
